@@ -5,7 +5,7 @@ import LocationInfoBox from './LocationInfoBox'
 
 // define constants
 const NATURAL_EVENT_WILDFIRE = 8;
-
+test
 const Map = ({ eventData, center, zoom }) => {
     const [locationInfo, setLocationInfo] = useState(null)
 
