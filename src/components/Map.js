@@ -15,7 +15,7 @@ const Map = ({ eventData, center, zoom }) => {
         }
         return null
     })
-
+test
     return (
         <div className="map">
             <GoogleMapReact
